@@ -52,5 +52,5 @@ test_YYYYMMDD_HHMMSS/mem_rss.png
 You can embed the generated plot in your README like this:
 
 ```
-![Memory usage plot](images/mem_rss.png)
+![Memory usage plot](imgs/mem_rss.png)
 ```
